@@ -5,6 +5,8 @@
   </tr>
 </table>
 
+## ⚠️ ChordAuth is still in early development, and will not work easily. We advise you to check back later, when ChordAuth is more polished. Use ChordAuth at your own risk.
+
 ChordAuth is a _decentralized_ **authentication** and **storage** protocol where the client _really_ owns their data.
 
 All the ChordAuth protocol requires is a **public key**, which is like your _username_, and your **private key**, which is your _password_. The private key is never required by any server, and is instead used for creating a signature, which is basically revealing that you are in fact, you, without revealing anything secret. Nobody needs to trust the other end, because using this protocol, this is possible. 
@@ -18,7 +20,7 @@ It works like this:
 
 ## Installation
 
-You can install ChordAuth on your laptop by following these instructions):
+You can install ChordAuth on your laptop by following these instructions:
 
 1. First, **install ChordAuth by running ```pip3 install chordauth```** in your [command line application](https://www.w3schools.com/whatis/whatis_cli.asp).
 2. Then, **create your account by running ```chordauth server```**. It should ask you a series of questions, like picking a password and choosing a [file path](https://www.codecademy.com/resources/docs/general/file-paths). You can find your desired file paths by looking for a file path that does not exist (that should be relatively easy).
