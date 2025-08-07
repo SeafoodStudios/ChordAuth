@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-## ⚠️ ChordAuth is still in early development, and will not work easily. We advise you to check back later, when ChordAuth is more polished. Use ChordAuth at your own risk.
+## ⚠️ ChordAuth is still in early development, and will not work easily. We advise you to check back later, when ChordAuth is more polished. The server-side template package has not been finished or uploaded to GitHub yet. Use ChordAuth at your own risk.
 
 ChordAuth is a _decentralized_ **authentication** and **storage** protocol where the client _really_ owns their data.
 
