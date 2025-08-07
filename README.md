@@ -1,5 +1,10 @@
-# ChordAuth
-![ChordAuth Logo](https://raw.githubusercontent.com/SeafoodStudios/ChordAuth/main/resources/logo.png)
+<table>
+  <tr>
+    <td>ChordAuth</td>
+    <td><img src="https://raw.githubusercontent.com/SeafoodStudios/ChordAuth/main/resources/logo.png" alt="ChordAuth Logo" /></td>
+  </tr>
+</table>
+
 ## ChordAuth is still a work in progress, please check in later!
 Also, if you want to download/test the client code, run this:
 ```
